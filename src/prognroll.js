@@ -1,4 +1,4 @@
-/* PrognRoll (modified for Calvium) | https://mburakerman.github.io/prognroll/ | @mburakerman | License: MIT */
+/* PrognRoll (modified for Calvium) | based off https://mburakerman.github.io/prognroll/ | @mburakerman | License: MIT */
 (function($) {
     $.fn.prognroll = function(options) {
 
